@@ -38,7 +38,9 @@ h2{
 h5{
   color:maroon;
 }
-h
+h4{
+	color:maroon;
+}
 
 footer p{
   text-align:center;
@@ -46,11 +48,4 @@ footer p{
   color:white;
   background:steelblue;
  clear:left;
-}
-a{
-  color:maroon;
-underline:none;
-}
-li{
-  color:steelblue;
 }
