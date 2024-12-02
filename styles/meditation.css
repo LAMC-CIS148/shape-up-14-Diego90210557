@@ -48,3 +48,11 @@ footer p{
   background:steelblue;
  clear:left;
 }
+.container{
+	position:relative;
+}
+.leftcorner{
+	postion:absolute;
+	top:10px;
+	left:20px;
+}
